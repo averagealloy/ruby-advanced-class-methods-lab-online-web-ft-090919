@@ -15,6 +15,6 @@ class Song
     song.save
     song
   end
-  def self.new_
+  def self.new_by_
 
 end
